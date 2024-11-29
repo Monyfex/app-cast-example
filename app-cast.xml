@@ -26,7 +26,6 @@
       <title>Version 1.1.2 - iOS</title>
       <description>Adds force upgrade.</description>
       <pubDate>Fri, 1 Nov 2024 12:00:00 +0000</pubDate>
-      <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
 
       <enclosure url="https://apps.apple.com/cr/app/monyfex/id6636512355"
         sparkle:version="1.6.2" sparkle:os="iOS" />
